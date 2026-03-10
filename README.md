@@ -24,9 +24,14 @@ This project demonstrates basic game logic, user input handling, and win/draw de
    ```bash
    git clone https://github.com/hasvanthreddy/tictactoe.git
    cd tictactoe
+
+ 
 2. Compile the code
+    ```bash
    javac tictactoe.java
 
-3. Run The Game
+
+4. Run The Game
+    ```bash
    java tictactoe
 
